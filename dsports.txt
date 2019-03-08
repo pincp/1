@@ -1,0 +1,6 @@
+name= DSports 1 url= "http://190.2.150.145:1935/jorlive/u733/index.m3u8" logo= "https://i.postimg.cc/50v6DbLP/icon.png"
+name= DSports 2 url= "http://190.2.150.145:1935/jorlive/u7344/index.m3u8" logo= "https://i.postimg.cc/50v6DbLP/icon.png"
+name= DSports 3 url= "http://190.2.150.145:1935/jorlive/u755/index.m3u8" logo= "https://i.postimg.cc/50v6DbLP/icon.png"
+name= DSports 1/1 url= "http://185.59.221.143:1935/rticdn/uu11/index.m3u8" logo= "https://i.postimg.cc/50v6DbLP/icon.png"
+name= DSports 2/2 url= "http://185.59.221.143:1935/rticdn/uu22/index.m3u8" logo= "https://i.postimg.cc/50v6DbLP/icon.png"
+name= DSports 3/3 url= "http://185.59.221.143:1935/rticdn/uu33/index.m3u8" logo= "https://i.postimg.cc/50v6DbLP/icon.png"
