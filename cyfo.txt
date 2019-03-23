@@ -8,4 +8,4 @@ name= CyfoStreams 7 url= "http://103.194.171.37/vvv/s77/index.m3u8" logo= "https
 name= CyfoStreams 8 url= "http://103.194.171.37/vvv/s888/index.m3u8" logo= "https://i.postimg.cc/50v6DbLP/icon.png"
 name= CyfoStreams 9 url= "http://103.194.171.37/vvv/s9/index.m3u8" logo= "https://i.postimg.cc/50v6DbLP/icon.png"
 name= CyfoStreams 10 url= "http://103.194.171.37/vvv/s100/index.m3u8" logo= "https://i.postimg.cc/50v6DbLP/icon.png"
-name= België VRT Eén url= "https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8" logo= "http://blog.kokenmetkarim.be/wp-content/uploads/2017/04/EEN_kleuren-03.png"
+name= België VRT Eén url= "https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8" logo= "https://upload.wikimedia.org/wikipedia/de/thumb/a/a7/Een_HD_Logo.svg/1024px-Een_HD_Logo.svg.png"
