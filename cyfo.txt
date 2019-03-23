@@ -8,4 +8,4 @@ name= CyfoStreams 7 url= "http://103.194.171.37/vvv/s77/index.m3u8" logo= "https
 name= CyfoStreams 8 url= "http://103.194.171.37/vvv/s888/index.m3u8" logo= "https://i.postimg.cc/50v6DbLP/icon.png"
 name= CyfoStreams 9 url= "http://103.194.171.37/vvv/s9/index.m3u8" logo= "https://i.postimg.cc/50v6DbLP/icon.png"
 name= CyfoStreams 10 url= "http://103.194.171.37/vvv/s100/index.m3u8" logo= "https://i.postimg.cc/50v6DbLP/icon.png"
-name= België VRT Eén url= "https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8" logo= "http://www.lyngsat-logo.com/hires/vv/vrt_een_hd.png"
+name= België VRT Eén url= "https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8" logo= "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.pF-kZVDj6w9Hj8x9TLUMxwHaFj%26pid%3D15.1&f=1"
